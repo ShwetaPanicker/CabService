@@ -9,6 +9,7 @@ public class Customer implements Member
     int dis;
     int fair;
     int sample;
+    int sample2;
     Customer(String name)
     {
     this.name=name;
