@@ -8,6 +8,7 @@ public class Customer implements Member
     int drop;
     int dis;
     int fair;
+    int sample;
     Customer(String name)
     {
     this.name=name;
